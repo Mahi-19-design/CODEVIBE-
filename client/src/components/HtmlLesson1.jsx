@@ -60,14 +60,17 @@ const HtmlLesson1 = () => {
 
       <p>In the next lesson, you'll learn about basic tags and document structure in detail.</p>
       <p>
-        <ol>INSTRUCTION
-          <li>{`<h1> heading 1 </h1>`}</li>
+        <ol>
+          <h3> INSTRUCTION </h3>
+          <div className = "list">
+          <li className='list'>{`<h1> heading 1 </h1>`}</li>
           <li>{`<h6> last heading </h6>`}</li>
           <li>{`<p> paragraph </p>`}</li>
+          </div>
         </ol>
       </p>
 
-      <h2> 💻 Try Yourself, Follow Instruction !!!</h2>
+      <h2> 💻 Try Yourself, Follow Instruction !!</h2>
 
       <Compiler 
         LessonId="html-lesson1"

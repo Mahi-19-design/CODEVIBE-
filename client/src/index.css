@@ -24,7 +24,7 @@
   /* Contrast Colors */
   --dark-gray: #1a1a2e;
   --text-primary: #ffffff;
-  --text-secondary: #b0b8d4;
+  --text-secondary: #dfe3f0;
   
   /* Card Styling */
   --card-bg: #ffffff;
@@ -1187,4 +1187,8 @@ font-weight:600;
   box-shadow: 0 0 15px rgba(255, 77, 109, 0.4);
   position: relative;
   overflow: hidden;
+}
+
+.list{
+  color: rgb(255, 255, 255)
 }
