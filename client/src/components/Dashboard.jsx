@@ -11,6 +11,10 @@ const Dashboard = () => {
     logout();
     navigate("/Login");
   };
+/*  const handleLogout = () => {
+    localStorage.removeItem("user");
+    navigate("/login");
+  };*/
 
   const handleViewReport = (course) => {
     // yaha course select karke report page pe bhejenge
@@ -28,8 +32,10 @@ const Dashboard = () => {
   return (
     <div className="dashboard">
       <div className="dashboard-header">
-        <h1>Welcome, {user.username} 🎉</h1>
-        <button
+        <h1 style={{ textAlign: "center", width: "100%" }}>
+        Welcome, {user.username} 🎉
+        </h1>
+        {/* <button
           style={{
             minHeight: "44px",
             padding: "0.8rem 1.5rem",
@@ -58,7 +64,7 @@ const Dashboard = () => {
         >
           <FaSignOutAlt style={{ color: "var(--white)" }} />
           Logout
-        </button>
+        </button> */}
       </div>
 
       <div className="dashboard-card" style={{ color: "black", width: "100%", maxWidth: "600px" }}>
