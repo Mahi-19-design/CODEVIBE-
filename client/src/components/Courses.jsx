@@ -356,7 +356,6 @@ const Courses = () => {
                 </span>
               </div>
 
-              {/* Duration */}
               <div
                 style={{
                   display: 'flex',
