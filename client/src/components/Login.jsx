@@ -18,13 +18,10 @@ const Login = () => {
     setLoading(true);
     setResponseMsg("");
     try {
-     const response = await axios.post(`${API_BASE_URL}/api/auth/login`,
-      const response = await axios.post(`${API_BASE_URL}/api/auth/login`,
-        {
-          Email: email,
-          password,
-        }
-      );
+      const response = await axios.post(`${API_BASE_URL}/api/auth/login`, {
+        Email: email,
+        password,
+      });
 
       console.log("✅ Login successful", response.data);
       setResponseMsg(response.data.message);
