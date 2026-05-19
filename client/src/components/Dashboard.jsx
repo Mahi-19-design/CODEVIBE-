@@ -1,11 +1,16 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { FaSignOutAlt } from "react-icons/fa";
+import { useAuth } from "../AuthProvider.jsx";
 
 const Dashboard = () => {
   const navigate = useNavigate();
-  const user = JSON.parse(localStorage.getItem("user")); 
+  const { user, logout } = useAuth();
 
+  const handleLogout = () => {
+    logout();
+    navigate("/Login");
+  };
 /*  const handleLogout = () => {
     localStorage.removeItem("user");
     navigate("/login");
