@@ -16,6 +16,12 @@ const Dashboard = () => {
   const [greeting, setGreeting] = useState("");
   const [currentTime, setCurrentTime] = useState("");
   const [showLogoutConfirm, setShowLogoutConfirm] = useState(false);
+  const displayName =
+    user?.username?.trim() ||
+    user?.name?.trim() ||
+    user?.email?.split("@")[0] ||
+    user?.Email?.split("@")[0] ||
+    "Learner";
 
   useEffect(() => {
     const hour = new Date().getHours();
