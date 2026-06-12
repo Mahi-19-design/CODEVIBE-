@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `Mahi-19-design/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-06-11
+Last updated: 2026-06-12
 
 ## Scoring
 
@@ -32,7 +32,7 @@ Last updated: 2026-06-11
 | 16 | [@jagrati7305](https://github.com/jagrati7305) | 6 | 3 | 0 | 0 |
 | 17 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 6 | 3 | 0 | 0 |
 | 18 | [@shreyamevada6](https://github.com/shreyamevada6) | 6 | 3 | 0 | 0 |
-| 19 | [@StarDustNova-57](https://github.com/StarDustNova-57) | 6 | 3 | 0 | 0 |
+| 19 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 6 | 3 | 0 | 0 |
 | 20 | [@Tech4Aditya](https://github.com/Tech4Aditya) | 6 | 3 | 0 | 0 |
 | 21 | [@alenalex-009](https://github.com/alenalex-009) | 4 | 2 | 0 | 0 |
 | 22 | [@Haritha-054](https://github.com/Haritha-054) | 4 | 2 | 0 | 0 |
