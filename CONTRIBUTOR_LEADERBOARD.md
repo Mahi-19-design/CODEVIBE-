@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `Mahi-19-design/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-07-30
+Last updated: 2026-07-31
 
 ## Scoring
 
@@ -49,17 +49,17 @@ Last updated: 2026-07-30
 | 33 | [@Dhruvil20060](https://github.com/Dhruvil20060) | 2 | 1 | 0 | 0 |
 | 34 | [@JANHAVI40](https://github.com/JANHAVI40) | 2 | 1 | 0 | 0 |
 | 35 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 2 | 1 | 0 | 0 |
-| 36 | [@MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | 2 | 1 | 0 | 0 |
-| 37 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 2 | 1 | 0 | 0 |
-| 38 | [@PeyalaAnandanaidu](https://github.com/PeyalaAnandanaidu) | 2 | 1 | 0 | 0 |
-| 39 | [@pracheyyy](https://github.com/pracheyyy) | 2 | 1 | 0 | 0 |
-| 40 | [@ravishankar-03](https://github.com/ravishankar-03) | 2 | 1 | 0 | 0 |
-| 41 | [@reshukushwah28](https://github.com/reshukushwah28) | 2 | 1 | 0 | 0 |
-| 42 | [@Sakshisen12](https://github.com/Sakshisen12) | 2 | 1 | 0 | 0 |
-| 43 | [@sashatakpere](https://github.com/sashatakpere) | 2 | 1 | 0 | 0 |
-| 44 | [@Shashankpatilrcr](https://github.com/Shashankpatilrcr) | 2 | 1 | 0 | 0 |
-| 45 | [@shiwans-k-yadav](https://github.com/shiwans-k-yadav) | 2 | 1 | 0 | 0 |
-| 46 | [@suhanimaurya05](https://github.com/suhanimaurya05) | 2 | 1 | 0 | 0 |
-| 47 | [@tejaswibellapu](https://github.com/tejaswibellapu) | 2 | 1 | 0 | 0 |
-| 48 | [@thedaripanator](https://github.com/thedaripanator) | 2 | 1 | 0 | 0 |
-| 49 | [@twinkle0tech](https://github.com/twinkle0tech) | 2 | 1 | 0 | 0 |
+| 36 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 2 | 1 | 0 | 0 |
+| 37 | [@PeyalaAnandanaidu](https://github.com/PeyalaAnandanaidu) | 2 | 1 | 0 | 0 |
+| 38 | [@pracheyyy](https://github.com/pracheyyy) | 2 | 1 | 0 | 0 |
+| 39 | [@ravishankar-03](https://github.com/ravishankar-03) | 2 | 1 | 0 | 0 |
+| 40 | [@reshukushwah28](https://github.com/reshukushwah28) | 2 | 1 | 0 | 0 |
+| 41 | [@Sakshisen12](https://github.com/Sakshisen12) | 2 | 1 | 0 | 0 |
+| 42 | [@sashatakpere](https://github.com/sashatakpere) | 2 | 1 | 0 | 0 |
+| 43 | [@Shashankpatilrcr](https://github.com/Shashankpatilrcr) | 2 | 1 | 0 | 0 |
+| 44 | [@shiwans-k-yadav](https://github.com/shiwans-k-yadav) | 2 | 1 | 0 | 0 |
+| 45 | [@suhanimaurya05](https://github.com/suhanimaurya05) | 2 | 1 | 0 | 0 |
+| 46 | [@tejaswibellapu](https://github.com/tejaswibellapu) | 2 | 1 | 0 | 0 |
+| 47 | [@thedaripanator](https://github.com/thedaripanator) | 2 | 1 | 0 | 0 |
+| 48 | [@twinkle0tech](https://github.com/twinkle0tech) | 2 | 1 | 0 | 0 |
+| 49 | [@Zorvanek](https://github.com/Zorvanek) | 2 | 1 | 0 | 0 |
