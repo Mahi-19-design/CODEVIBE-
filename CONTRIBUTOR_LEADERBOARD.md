@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `Mahi-19-design/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-10-20
+Last updated: 2026-10-21
 
 ## Scoring
 
@@ -19,47 +19,48 @@ Last updated: 2026-10-20
 | 3 | [@aayuxsh326](https://github.com/aayuxsh326) | 24 | 12 | 0 | 0 |
 | 4 | [@namrarafique93-del](https://github.com/namrarafique93-del) | 22 | 11 | 0 | 0 |
 | 5 | [@riteshpatil9686-lgtm](https://github.com/riteshpatil9686-lgtm) | 22 | 11 | 0 | 0 |
-| 6 | [@Smrithi-krishna](https://github.com/Smrithi-krishna) | 16 | 8 | 0 | 0 |
-| 7 | [@sricharan-213](https://github.com/sricharan-213) | 16 | 8 | 0 | 0 |
-| 8 | [@tazmeen24](https://github.com/tazmeen24) | 14 | 7 | 0 | 0 |
-| 9 | [@indresh404](https://github.com/indresh404) | 12 | 6 | 0 | 0 |
-| 10 | [@YashvardhanJani](https://github.com/YashvardhanJani) | 12 | 6 | 0 | 0 |
-| 11 | [@advikdivekar](https://github.com/advikdivekar) | 10 | 5 | 0 | 0 |
-| 12 | [@ArshiBansal](https://github.com/ArshiBansal) | 10 | 5 | 0 | 0 |
-| 13 | [@divyaa404](https://github.com/divyaa404) | 10 | 5 | 0 | 0 |
-| 14 | [@vasheekhan](https://github.com/vasheekhan) | 10 | 5 | 0 | 0 |
-| 15 | [@sofeel](https://github.com/sofeel) | 8 | 4 | 0 | 0 |
-| 16 | [@jagrati7305](https://github.com/jagrati7305) | 6 | 3 | 0 | 0 |
-| 17 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 6 | 3 | 0 | 0 |
-| 18 | [@shreyamevada6](https://github.com/shreyamevada6) | 6 | 3 | 0 | 0 |
-| 19 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 6 | 3 | 0 | 0 |
-| 20 | [@Tech4Aditya](https://github.com/Tech4Aditya) | 6 | 3 | 0 | 0 |
-| 21 | [@alenalex-009](https://github.com/alenalex-009) | 4 | 2 | 0 | 0 |
-| 22 | [@Haritha-054](https://github.com/Haritha-054) | 4 | 2 | 0 | 0 |
-| 23 | [@KaparthyReddy](https://github.com/KaparthyReddy) | 4 | 2 | 0 | 0 |
-| 24 | [@RehanAhmad25](https://github.com/RehanAhmad25) | 4 | 2 | 0 | 0 |
-| 25 | [@RishiMaskare](https://github.com/RishiMaskare) | 4 | 2 | 0 | 0 |
-| 26 | [@Samirahs08](https://github.com/Samirahs08) | 4 | 2 | 0 | 0 |
-| 27 | [@Siddh2024](https://github.com/Siddh2024) | 4 | 2 | 0 | 0 |
-| 28 | [@suryagkp2007-cmyk](https://github.com/suryagkp2007-cmyk) | 4 | 2 | 0 | 0 |
-| 29 | [@theblag](https://github.com/theblag) | 4 | 2 | 0 | 0 |
-| 30 | [@adityavikram-01](https://github.com/adityavikram-01) | 2 | 1 | 0 | 0 |
-| 31 | [@bhumishah2411](https://github.com/bhumishah2411) | 2 | 1 | 0 | 0 |
-| 32 | [@chinmaymohite3036](https://github.com/chinmaymohite3036) | 2 | 1 | 0 | 0 |
-| 33 | [@Dhruvil20060](https://github.com/Dhruvil20060) | 2 | 1 | 0 | 0 |
-| 34 | [@JANHAVI40](https://github.com/JANHAVI40) | 2 | 1 | 0 | 0 |
-| 35 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 2 | 1 | 0 | 0 |
-| 36 | [@MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | 2 | 1 | 0 | 0 |
-| 37 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 2 | 1 | 0 | 0 |
-| 38 | [@PeyalaAnandanaidu](https://github.com/PeyalaAnandanaidu) | 2 | 1 | 0 | 0 |
-| 39 | [@pracheyyy](https://github.com/pracheyyy) | 2 | 1 | 0 | 0 |
-| 40 | [@ravishankar-03](https://github.com/ravishankar-03) | 2 | 1 | 0 | 0 |
-| 41 | [@reshukushwah28](https://github.com/reshukushwah28) | 2 | 1 | 0 | 0 |
-| 42 | [@Sakshisen12](https://github.com/Sakshisen12) | 2 | 1 | 0 | 0 |
-| 43 | [@sashatakpere](https://github.com/sashatakpere) | 2 | 1 | 0 | 0 |
-| 44 | [@Shashankpatilrcr](https://github.com/Shashankpatilrcr) | 2 | 1 | 0 | 0 |
-| 45 | [@shiwans-k-yadav](https://github.com/shiwans-k-yadav) | 2 | 1 | 0 | 0 |
-| 46 | [@suhanimaurya05](https://github.com/suhanimaurya05) | 2 | 1 | 0 | 0 |
-| 47 | [@tejaswibellapu](https://github.com/tejaswibellapu) | 2 | 1 | 0 | 0 |
-| 48 | [@thedaripanator](https://github.com/thedaripanator) | 2 | 1 | 0 | 0 |
-| 49 | [@twinkle0tech](https://github.com/twinkle0tech) | 2 | 1 | 0 | 0 |
+| 6 | [@divyagsharma1415-cpu](https://github.com/divyagsharma1415-cpu) | 18 | 9 | 0 | 0 |
+| 7 | [@Smrithi-krishna](https://github.com/Smrithi-krishna) | 16 | 8 | 0 | 0 |
+| 8 | [@sricharan-213](https://github.com/sricharan-213) | 16 | 8 | 0 | 0 |
+| 9 | [@tazmeen24](https://github.com/tazmeen24) | 14 | 7 | 0 | 0 |
+| 10 | [@indresh404](https://github.com/indresh404) | 12 | 6 | 0 | 0 |
+| 11 | [@YashvardhanJani](https://github.com/YashvardhanJani) | 12 | 6 | 0 | 0 |
+| 12 | [@advikdivekar](https://github.com/advikdivekar) | 10 | 5 | 0 | 0 |
+| 13 | [@ArshiBansal](https://github.com/ArshiBansal) | 10 | 5 | 0 | 0 |
+| 14 | [@divyaa404](https://github.com/divyaa404) | 10 | 5 | 0 | 0 |
+| 15 | [@vasheekhan](https://github.com/vasheekhan) | 10 | 5 | 0 | 0 |
+| 16 | [@sofeel](https://github.com/sofeel) | 8 | 4 | 0 | 0 |
+| 17 | [@jagrati7305](https://github.com/jagrati7305) | 6 | 3 | 0 | 0 |
+| 18 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 6 | 3 | 0 | 0 |
+| 19 | [@shreyamevada6](https://github.com/shreyamevada6) | 6 | 3 | 0 | 0 |
+| 20 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 6 | 3 | 0 | 0 |
+| 21 | [@Tech4Aditya](https://github.com/Tech4Aditya) | 6 | 3 | 0 | 0 |
+| 22 | [@alenalex-009](https://github.com/alenalex-009) | 4 | 2 | 0 | 0 |
+| 23 | [@Haritha-054](https://github.com/Haritha-054) | 4 | 2 | 0 | 0 |
+| 24 | [@KaparthyReddy](https://github.com/KaparthyReddy) | 4 | 2 | 0 | 0 |
+| 25 | [@RehanAhmad25](https://github.com/RehanAhmad25) | 4 | 2 | 0 | 0 |
+| 26 | [@RishiMaskare](https://github.com/RishiMaskare) | 4 | 2 | 0 | 0 |
+| 27 | [@Samirahs08](https://github.com/Samirahs08) | 4 | 2 | 0 | 0 |
+| 28 | [@Siddh2024](https://github.com/Siddh2024) | 4 | 2 | 0 | 0 |
+| 29 | [@suryagkp2007-cmyk](https://github.com/suryagkp2007-cmyk) | 4 | 2 | 0 | 0 |
+| 30 | [@theblag](https://github.com/theblag) | 4 | 2 | 0 | 0 |
+| 31 | [@adityavikram-01](https://github.com/adityavikram-01) | 2 | 1 | 0 | 0 |
+| 32 | [@bhumishah2411](https://github.com/bhumishah2411) | 2 | 1 | 0 | 0 |
+| 33 | [@chinmaymohite3036](https://github.com/chinmaymohite3036) | 2 | 1 | 0 | 0 |
+| 34 | [@Dhruvil20060](https://github.com/Dhruvil20060) | 2 | 1 | 0 | 0 |
+| 35 | [@JANHAVI40](https://github.com/JANHAVI40) | 2 | 1 | 0 | 0 |
+| 36 | [@Kartikey-Pathak](https://github.com/Kartikey-Pathak) | 2 | 1 | 0 | 0 |
+| 37 | [@MD-Mushfiqur123](https://github.com/MD-Mushfiqur123) | 2 | 1 | 0 | 0 |
+| 38 | [@Mudita-Singh](https://github.com/Mudita-Singh) | 2 | 1 | 0 | 0 |
+| 39 | [@PeyalaAnandanaidu](https://github.com/PeyalaAnandanaidu) | 2 | 1 | 0 | 0 |
+| 40 | [@pracheyyy](https://github.com/pracheyyy) | 2 | 1 | 0 | 0 |
+| 41 | [@ravishankar-03](https://github.com/ravishankar-03) | 2 | 1 | 0 | 0 |
+| 42 | [@reshukushwah28](https://github.com/reshukushwah28) | 2 | 1 | 0 | 0 |
+| 43 | [@Sakshisen12](https://github.com/Sakshisen12) | 2 | 1 | 0 | 0 |
+| 44 | [@sashatakpere](https://github.com/sashatakpere) | 2 | 1 | 0 | 0 |
+| 45 | [@Shashankpatilrcr](https://github.com/Shashankpatilrcr) | 2 | 1 | 0 | 0 |
+| 46 | [@shiwans-k-yadav](https://github.com/shiwans-k-yadav) | 2 | 1 | 0 | 0 |
+| 47 | [@suhanimaurya05](https://github.com/suhanimaurya05) | 2 | 1 | 0 | 0 |
+| 48 | [@tejaswibellapu](https://github.com/tejaswibellapu) | 2 | 1 | 0 | 0 |
+| 49 | [@thedaripanator](https://github.com/thedaripanator) | 2 | 1 | 0 | 0 |
+| 50 | [@twinkle0tech](https://github.com/twinkle0tech) | 2 | 1 | 0 | 0 |
